@@ -36,6 +36,7 @@ The aim of the project is to find the nearest port from a ship based on the geol
 
 ### Setup For Dot net
 - Open the given solution file ShippingApiApp.sln in visual studio 2022
+- Download the appsetting.json file from mail and add this file in ShippingApiApp folder.
 - Build and run the application
 - You will get this url "https://localhost:7297/swagger/index.html"
 - Copy the  APIKey from the email which we have sent. 
