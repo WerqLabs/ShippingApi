@@ -1,0 +1,16 @@
+﻿global using Microsoft.AspNetCore.Mvc;
+global using ShippingApiApp.Filters;
+global using ShippingApiAppDataManagers.DataManager;
+global using ShippingApiAppDataManagers.IDataManager;
+global using ShippingApiAppModel;
+global using Newtonsoft.Json;
+global using ShippingApiAppDataManagers.BAL;
+global using ShippingApiAppDataManagers.DBManagerFactory;
+global using ShippingApiAppDataManagers.IBAL;
+global using Microsoft.AspNetCore.Mvc.Filters;
+global using Microsoft.AspNetCore.Mvc.ModelBinding;
+global using Microsoft.OpenApi.Models;
+global using Newtonsoft.Json.Converters;
+global using Newtonsoft.Json.Serialization;
+global using ShippingApiApp.ExceptionHandlerMiddleware;
+global using ShippingApiApp.Extensions;
