@@ -18,7 +18,7 @@ The aim of the project is to find the nearest port from a ship based on the geol
 ### Technologies
 - Visual Studio 2022
 - dot Net Core 6.0
-- MS SQL 18.0
+- MS SQL 19.0
 - Nugget Packages Third Party -> XUnit 2.4.1, Moq 4.18.4, Swagger 6.2.3, Microsoft.Data.SqlClient (5.1.0)
 
 ### Installations
