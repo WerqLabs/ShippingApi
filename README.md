@@ -22,7 +22,7 @@ The aim of the project is to find the nearest port from a ship based on the geol
 - Nugget Packages Third Party -> XUnit 2.4.1, Moq 4.18.4, Swagger 6.2.3, Microsoft.Data.SqlClient (5.1.0)
 
 ### Installations
-- First Install Microsoft SQL 2018
+- First Install Microsoft SQL 2019
 - Install visual studio 2022
 
 ### Setup For Database
