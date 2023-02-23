@@ -65,12 +65,12 @@
                 return BadRequest(400);
             }
         }
- 
-        
+
+
         /// <summary>
         /// Update Ship Velocity
         /// </summary>
-        /// <param name="oVelocityModel"> Json Model with parameters as
+        /// <param name="objVelocityModel"> Json Model with parameters as
         /// ShipId = Existing Ship Id datatype int;
         /// Velocity = Speed of the Ship datatype decimal
         /// </param>
